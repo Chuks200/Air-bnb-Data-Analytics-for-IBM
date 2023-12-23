@@ -15,7 +15,7 @@ People's main criteria when visiting new places are reasonable accommodation and
 marketplace created to meet this need of people by renting out their homes for a short term. They offer this facility at a relatively lower
 price than hotels. Further people worldwide prefer the homely and economical service offered by them. They offer services across
 various geographical locations
-![Dashboard].
+
 ### Data Source
 The dataset for this project is gotten using  using the following link: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 This dataset contains information such as the neighborhood offering these services, room type, price,avaliabilty, reviews, service fee,
@@ -63,6 +63,9 @@ inferences
 - Effect of Review Rate number on price
 - Effect of host identity verified on price
 ### Results and Findings.
+##### Counts of Air bnb room types
+<img width="519" alt="ibm 5av" src="https://github.com/Chuks200/Air-bnb-Data-Analytics-for-IBM/assets/150162291/45551da3-8dc4-4a75-9b7e-6420e9fc972b">
+
   ##### Reasons for not including host id , id , country and country code columns for my Data Analytics.?
 - Host ID and ID: These columns most likely contain the host's and
   the listing's individual IDs. These kinds of unique IDs are typically
@@ -77,13 +80,19 @@ inferences
   safely removed in this instance, as they neither vary nor offer new
   information for analysis within a single-country context.
 ##### Inferences from task 5a, The following conclusions are suggested by the bar graph created using the Airbnb dataset:
+<img width="564" alt="ibm 5a" src="https://github.com/Chuks200/Air-bnb-Data-Analytics-for-IBM/assets/150162291/2cadd929-fb8e-4668-84d0-41f4bab350ca">
+
 - The average price of 'hotel rooms' is the highest, which makes sense given that these types of lodging frequently come with extra features and services. According to the data, 'shared rooms' have the
   second-highest average cost. This is uncommon because, because of their shared area and decreased privacy, shared rooms are usually the least costly.
   The third-highest average price is shown for 'entire homes and apartments'. This is a little surprising, as shared areas typically attract lower costs than full homes or apartments because of the
   solitude and space they provide.
   The average price of 'private rooms' is the lowest, which is consistent with the widely held belief that they are more costly than shared rooms but less expensive than a full house')
 ##### Inferences from task 5b:'
+<img width="530" alt="ibm 5c" src="https://github.com/Chuks200/Air-bnb-Data-Analytics-for-IBM/assets/150162291/d9d1df56-455b-466c-838c-e918c6f62fa5">
+
 - It is nevertheless evident that the two variables have a positive association. The price of the accommodation tends to rise in tandem with the service charge, meaning that rooms that are more expensive typically have larger service costs. This lends more credence to the theory that service costs represent a portion of the room charge, which is a standard pricing tactic in the hospitality sector' )
+  
+
 ### Recommendation 
 
 ### Reference
