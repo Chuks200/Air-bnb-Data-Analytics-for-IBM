@@ -1,7 +1,14 @@
 # Air-bnb Data Analysis using Python
 
 ## Table of Content
-- [Project Overview](project.overview)
+
+  - [Project Overview](#project-overview)
+  - [Data Source](#data-source)
+  - [Tool used](#tool-used)
+  - [Results and Findings](#results-and-findings)
+  - [Recommendation](#recommendation)
+  - [Reference](#reference)
+  - [Python codes worked with](#python-codes-worked-with)
 
 ### Project Overview
 People's main criteria when visiting new places are reasonable accommodation and food. Airbnb (Air-Bed-Breakfast) is an online
