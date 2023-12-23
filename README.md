@@ -15,8 +15,7 @@ People's main criteria when visiting new places are reasonable accommodation and
 marketplace created to meet this need of people by renting out their homes for a short term. They offer this facility at a relatively lower
 price than hotels. Further people worldwide prefer the homely and economical service offered by them. They offer services across
 various geographical locations
-
-
+![Dashboard].
 ### Data Source
 The dataset for this project is gotten using  using the following link: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 This dataset contains information such as the neighborhood offering these services, room type, price,avaliabilty, reviews, service fee,
