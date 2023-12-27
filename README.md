@@ -95,13 +95,13 @@ inferences
   
 
 ### Recommendation
-- Focus marketing on high-priced neighborhoods and increase hotel room listings.
-- Investigate the anomaly of shared rooms' high prices. Consider a tiered service fee structure.
--  Promote short-term rentals and optimize booking distribution.
--  Ensure data reliability by addressing anomalies and verifying trends in room construction and service fee correlations.
+- Pay more attention to upscale neighbourhoods while promoting, and include more hotel rooms.
+- Examine the very high cost of shared rooms. Think of a service charge structure with tiers.
+-  Encourage short-term rentals and maximise the spread of bookings.
+-  By resolving anomalies and confirming patterns in room construction and service fee correlations, you can guarantee the accuracy of the data.
 
 ### Limitations
-Limitations of this analysis include potential data anomalies influencing results, such as the high average price for shared rooms. The recommendations are also based on current market conditions and trends, which are subject to change. Furthermore, without demographic and seasonal demand data, the analysis might not fully capture the dynamics of the marketplace.
+Potential data abnormalities that could affect the analysis's findings, including the high average cost of shared rooms, are one of its limitations. Additionally liable to change, the recommendations are predicated on the state of the market and current developments. Furthermore, the research might not accurately reflect the dynamics of the market in the absence of demographic and seasonal demand data.
 
 ### Reference
 [kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
