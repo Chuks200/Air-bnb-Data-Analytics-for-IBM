@@ -7,6 +7,7 @@
   - [Tool used](#tool-used)
   - [Results and Findings](#results-and-findings)
   - [Recommendation](#recommendation)
+  - [Limitations](#limitations)
   - [Reference](#reference)
   - [Python codes worked with](#python-codes-worked-with)
 
@@ -93,7 +94,14 @@ inferences
 - It is nevertheless evident that the two variables have a positive association. The price of the accommodation tends to rise in tandem with the service charge, meaning that rooms that are more expensive typically have larger service costs. This lends more credence to the theory that service costs represent a portion of the room charge, which is a standard pricing tactic in the hospitality sector' )
   
 
-### Recommendation 
+### Recommendation
+- Focus marketing on high-priced neighborhoods and increase hotel room listings.
+- Investigate the anomaly of shared rooms' high prices. Consider a tiered service fee structure.
+-  Promote short-term rentals and optimize booking distribution.
+-  Ensure data reliability by addressing anomalies and verifying trends in room construction and service fee correlations.
+
+### Limitations
+Limitations of this analysis include potential data anomalies influencing results, such as the high average price for shared rooms. The recommendations are also based on current market conditions and trends, which are subject to change. Furthermore, without demographic and seasonal demand data, the analysis might not fully capture the dynamics of the marketplace.
 
 ### Reference
 [kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata)
